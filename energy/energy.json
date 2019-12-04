@@ -1,8 +1,0 @@
-{
-  "usingComponents": {
-    "van-switch": "/vant-ui/switch/index",
-    "van-radio": "/vant-ui/radio/index",
-    "van-radio-group": "/vant-ui/radio-group/index",
-    "van-datetime-picker": "/vant-ui/datetime-picker/index"
-  }
-}
